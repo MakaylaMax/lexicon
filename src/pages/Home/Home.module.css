@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:wght@900&display=swap');
+
+
+.home-background{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #F2E9EA;
+}
+
+.main-header{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    /* letter-spacing: 0.3em; */
+   
+}
+
+.first-header{
+    font-size: 4.5rem;
+    color: #5C4031;
+}
+
+.search-box{
+    font-size: 2rem;
+}
+

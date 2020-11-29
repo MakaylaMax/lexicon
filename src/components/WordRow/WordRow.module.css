@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+.WordRow1{
+    float: left;
+    margin-right: 10px;
+    margin-left: 1em;
+    font-size: 2rem;
+    font-family: 'Crimson+Text';
+    border-bottom: 1px solid currentColor;
+}
+
+.WordRow2{
+    font-size: 2rem;
+}

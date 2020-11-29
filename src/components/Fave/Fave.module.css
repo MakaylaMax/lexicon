@@ -1,0 +1,8 @@
+.fave-button{
+    margin-left: 5px;
+    color: #CDA177;
+}
+
+.fave-button:hover{
+    color: rgb(236, 240, 241);
+}
